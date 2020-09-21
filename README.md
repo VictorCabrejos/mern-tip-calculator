@@ -2,10 +2,10 @@
 
 TIP CALCULATOR USING MERN STACK:
 
-M-> Mongo
+. M-> Mongo
 
-E-> Express
+. E-> Express
 
-R -> React
+. R -> React
 
-N -> Node
+. N -> Node
